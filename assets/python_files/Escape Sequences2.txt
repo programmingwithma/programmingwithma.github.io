@@ -1,0 +1,16 @@
+# print("A smartphone is a mobile device that combines cellular and mobil\
+# computing functions into one unit. They are distinguished from feature \
+# phones by their stronger hardware capabilities and extensive mobile \
+# operating systems, which facilitate wider software, internet (including \
+# web browsing[1] over mobile broadband), and multimedia functionality\
+# (including music, video, cameras, and gaming), alongside core phone\
+# functions such as voice calls and text messaging. Smartphones typically \
+# contain a number of metal–oxide–semiconductor (MOS) integrated circuit \
+# (IC) chips, include various sensors that can be leveraged by their \
+# software (such as a magnetometer, proximity sensors, barometer, gyroscope,\
+#  or accelerometer), and support wireless communications protocols \
+#  (such as Bluetooth, Wi-Fi, or satellite navigation).")
+
+print("\x45") # Hex value
+
+print("\005")  # Octal value

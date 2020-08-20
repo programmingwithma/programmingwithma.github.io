@@ -1,0 +1,20 @@
+# 1.Python Numbers
+
+# i. int -> Integer Example - 2,5, 78779979
+# ii. float -> Example - 3.6 , 5.8 , 87979E2
+# iii.Complex Numbers -> x+yj 
+
+# Example - x=2
+# y=1
+# print(type(2+1j))
+# print(isinstance(2+1j,int))
+
+# 2.Python Strings
+"Madhav is a ..."
+'njbbbjjn'
+"23"
+
+# 3. Python Lists
+# 4. Python Tuples
+# 5. Python Set
+# 6. Python Dictionary

@@ -1,0 +1,13 @@
+var1 = "user@name"
+print(var1)
+
+
+# Rules --
+# 1. The name of the variable can only contain underscore , alphabet and numeric digits..
+# 2. The numeric digits can not be on the starting of the variable..
+# 3. We cannot use keywords as a variable name..
+
+# Some invalid variable names --
+
+# print , 98hello , hell.o , user@name , int , float , hell!0
+

@@ -1,0 +1,10 @@
+print("Hello world!")
+
+# print('a' , 'b' , 'c')
+# We can give multiple values to be printed.
+
+# print('a' , 'b' , 'c', sep= "+")
+# Sep is used to enter the character between the values.
+
+print( 'a' , 'b',end = "---")
+print( 'a' , 'b',end = "---")

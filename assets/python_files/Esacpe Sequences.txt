@@ -1,0 +1,12 @@
+# "\n"
+
+# print('Hello\nHii')
+# print('Hello\nHii'.encode())
+
+# print('I don\'t like this')
+# print("I don\"t like this")
+
+# print("\\")
+
+# print("My name is\tMadhav")
+print("My name is\bMadhav")

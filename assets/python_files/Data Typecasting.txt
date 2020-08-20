@@ -1,0 +1,26 @@
+var1 = "90" 
+
+# print(type(var1))
+
+# print(int(var1)+30)
+# print(str(55)+"Hello")
+# print(type(40.0))
+
+# True , False
+# 1 , 0
+# print(bool(0))
+
+# Some functions for data Type casting--
+# int() , float() , str() , list() , tuple() , dict()
+
+# Implict Type Conversion
+print(20+30.5)
+# 20-> 20.0
+# NO loss
+
+# Explict Type Conversion 
+
+# Loss
+print(int(78.9)+22)
+print(int(78.9+22))
+
