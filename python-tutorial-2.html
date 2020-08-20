@@ -155,11 +155,18 @@
   </div>
   <!-- End Breadcrumbs -->
 
-<style>
-  .embed-responsive-18by9::before {
+  <style>
+    @media(min-width: 470px){
+    .embed-responsive-18by9::before {
     padding-top: 48.857143%;
+    }
   }
-  
+
+    @media(max-width: 481px){
+      .embed-responsive-18by9::before {
+      padding-top: 56.25%;
+    }
+  }
 </style>
 
   <div class="embed-responsive embed-responsive-18by9">
@@ -169,7 +176,7 @@
   <br>
 
   <div class="section-title">
-    <h2>Additional Resources</h2>
+    <h2 style = "margin-left: 20px;">Additional Resources</h2>
   </div>
 
 
