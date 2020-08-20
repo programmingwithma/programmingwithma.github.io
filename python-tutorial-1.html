@@ -134,7 +134,7 @@
         color: #fff;
       }
     }
-    @media(min-width: 470px) AND (max-width: 800PX){
+    @media(min-width: 470px) and (max-width: 800PX){
       .customstyle {
         text-align: center;
         background: #5fcf80;
@@ -156,20 +156,29 @@
   <!-- End Breadcrumbs -->
 
 <style>
-  .embed-responsive-18by9::before {
+    @media(min-width: 470px){
+    .embed-responsive-18by9::before {
     padding-top: 48.857143%;
+    }
   }
+
+    @media(max-width: 481px){
+      .embed-responsive-18by9::before {
+      padding-top: 56.25%;
+    }
+  }
+    
   
 </style>
 
-  <div class="embed-responsive embed-responsive-16by9">
+  <div class="embed-responsive embed-responsive-18by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z1c9JNFgOfU"></iframe>
   </div>
   <br>
   <br>
 
   <div class="section-title">
-    <h2>Additional Resources</h2>
+    <h2 style = "margin-left: 20px;">Additional Resources</h2>
   </div>
 
 
