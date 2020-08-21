@@ -1,0 +1,23 @@
+"""
+Comparision Operators
+> -> Greater Than
+< -> Less Than
+== -> Equal to
+!= -> Not Equal to
+>= Greater Than or Equal to
+<= Less Than or Equal to
+"""
+
+# print("hello"<"hello1")
+# print("hello"!="hello1")
+
+# print(7<= 9)
+
+# Logical Operators...
+
+# and ,or,  not
+
+# print(True or True)
+# print(True and True)
+
+print(not(True))
