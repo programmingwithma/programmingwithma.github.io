@@ -1,0 +1,28 @@
+
+# Types -
+"""
+1. Airthmetic Operator
+2. Comparision Operators or relational operators
+3. Logical Operators
+4. Assignment Operators
+5. Identity operator
+6. Bitwise Operator
+"""
+
+# Arithmetic Operator--
+"""
++ -> Addition
+- -> Subtraction
+* -> Multiplication
+/ -> Division -> Floating
+% -> Modulas
+// -> Floor Divison
+** -> Exponent
+"""
+
+# 25 = 3 * 8 + 1
+print(45 % 7)
+
+# print(int(23/3)) = 23//3
+
+print(5**10)
