@@ -1,0 +1,27 @@
+
+# Bitwise Operators --
+
+"""
+1. & - Bitwise And Operator
+2. | - Bitwise Or Operator
+3. ~ - Not Operator
+4. ^ - XOR Operator 
+5. >> - Right Operator
+6. << Bitwise Left Operator.
+
+"""
+
+x = 10 # 1010 
+y =  4 # 0100
+
+# print(~x) # -(1010 +1)
+
+# print(x >> 1)
+
+# Memebership Operators --
+
+# in , not in 
+
+# print("a" in "Abcd")
+# print("a" not in "Abcd")
+
