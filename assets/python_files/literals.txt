@@ -1,0 +1,18 @@
+
+
+var = 2
+
+"gyunjbiuibiib"
+
+
+"""
+Integer Literal - 34 , 56
+Float Literal - 23.00000 , 56564.7676
+String literal - "vvtttvv" , "87686"
+
+[2 , 344 , "hughuhg" , "vyvyhvyhv"] - List Literal
+(3455 , "vugugu" , "uhuhuu") - Tuple Literal
+
+Dictionary Literal
+Set Literal
+"""
