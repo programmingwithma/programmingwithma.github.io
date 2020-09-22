@@ -1,0 +1,18 @@
+# Modules--
+# 1. User defined 
+# 2. Standard Library 
+# 3. Third - Party Modules
+
+# math module
+# import module_name
+
+# from  math import pi
+# import math
+# print(math.pi)
+
+# from math import *
+# print(pi)
+
+# import math as mt
+# print(mt.pi)
+
