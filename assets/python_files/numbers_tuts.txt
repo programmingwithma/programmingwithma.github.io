@@ -1,0 +1,27 @@
+# print(0xFB)
+# print(0b10)
+
+
+# print(0o15) 
+
+
+# print(2.2   + 1.1)
+
+# Python Decimal
+# from decimal import Decimal as D
+
+#  print(D("0.1"))
+# print(D("1.1") + D("2.2"))
+
+
+
+# Python Fractions--
+from fractions import Fraction as F
+
+print(F("1.5"))
+print(F(1,2))
+
+print(F("1.1"))
+
+print(F(1,3) % F(1,3))
+print(F(1,3) + F(1,3))
